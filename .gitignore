@@ -1,0 +1,10 @@
+my-venv/
+chroma_db/
+localEmbeddingModel/
+Ollama/
+
+__pycache__/
+*.pyc 
+.env
+.DS_Store
+Thumbs.db
