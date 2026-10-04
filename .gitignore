@@ -2,7 +2,6 @@ my-venv/
 chroma_db/
 localEmbeddingModel/
 Ollama/
-assets/
 regulationChunk.json
 feedback_log.xlsx
 
