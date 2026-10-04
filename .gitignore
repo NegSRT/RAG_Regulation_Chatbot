@@ -2,6 +2,7 @@ my-venv/
 chroma_db/
 localEmbeddingModel/
 Ollama/
+regulationChunk.json
 
 __pycache__/
 *.pyc 
