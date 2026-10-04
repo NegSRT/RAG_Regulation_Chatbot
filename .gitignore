@@ -3,6 +3,8 @@ chroma_db/
 localEmbeddingModel/
 Ollama/
 regulationChunk.json
+feedback_log.xlsx
+
 
 __pycache__/
 *.pyc 

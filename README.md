@@ -1,3 +1,6 @@
+![Project Demo](assets/demo.gif)
+
+
 This project has been provided based on Demo purposes, the real-life data do not exist within the repository for confidentiality purposes.
 Therefore Regulation.Sample.JSON is only consisted of very limited data chunks.
 Before running this project make sure to have Ollama and "qwen2.5:7b" within it installed.
